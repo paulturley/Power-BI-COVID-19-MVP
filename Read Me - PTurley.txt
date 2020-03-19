@@ -1,0 +1,12 @@
+This Power BI report tracks daily COVID-19 Coronavirus trends using data from the CDC curated by Johns Hopkins University. 
+
+Please feel free to make enhancements or use this in any capacity that will help the community, clients, etc.
+If you or other data professionals can collaborate to expand this project, please do so.
+If you make any changes that would break the data model or existing report pages, please save a new file and provide comments. Power BI doesn't doesn't naturally support versioning and change-merging so please try to leave existing features in-place and make additions that can be incrementally and manually added to a master copy. 
+
+Ideas or questions?
+Paul@SQLServerBIBlog.com
+@paul_turley
+
+Background information is on my blog: SqlServerBi.blog
+
