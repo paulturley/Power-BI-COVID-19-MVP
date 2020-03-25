@@ -10,3 +10,9 @@ Paul@SQLServerBIBlog.com
 
 Background information is on my blog: SqlServerBi.blog
 
+Just in case you found this file somewhere else, the master files are in https://github.com/paulturley/Power-BI-COVID-19-MVP
+
+3-24-20
+Still recovering from the file format change introduced on 3-22-20.  CSV files prior to this date had 8 columns. Not only were 4 additional columns added but in a different order. This created numerous problems that took about two days to discover and remedy.
+The Case Details query now appends two queries: one for existing files from Jan 22 through Mar 21 and the other for newer files added after 3-21.  In early testing, these changes worked and data loads correctly.
+
