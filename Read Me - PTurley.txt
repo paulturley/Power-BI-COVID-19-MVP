@@ -16,3 +16,6 @@ Just in case you found this file somewhere else, the master files are in https:/
 Still recovering from the file format change introduced on 3-22-20.  CSV files prior to this date had 8 columns. Not only were 4 additional columns added but in a different order. This created numerous problems that took about two days to discover and remedy.
 The Case Details query now appends two queries: one for existing files from Jan 22 through Mar 21 and the other for newer files added after 3-21.  In early testing, these changes worked and data loads correctly.
 
+3-28-20
+Moved the unmaintained files into an Archive folder.  These are reference and will probably not refresh with significant changes.
+
