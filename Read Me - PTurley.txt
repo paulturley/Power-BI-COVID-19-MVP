@@ -19,3 +19,6 @@ The Case Details query now appends two queries: one for existing files from Jan 
 3-28-20
 Moved the unmaintained files into an Archive folder.  These are reference and will probably not refresh with significant changes.
 
+7-1-20
+Big overhaul of the source queries - GitHub changed their site structure so changes were required to use Web.Contents() in queries that once depended on HTML <table> tags which were replaced with <div> tags (that's the simple story anyway).
+
